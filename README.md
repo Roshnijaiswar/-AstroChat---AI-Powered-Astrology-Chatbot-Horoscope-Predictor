@@ -15,17 +15,17 @@ With AI and chatbot integration, it modernizes traditional astrology, making it 
 ## 🗃️ Project Structure
 
 AstroChat-AI/
-├── ASTRO_CHAT.py # Main app logic
-├── UI.py # User interface setup (Streamlit)
-├── training.py # Model training using RandomForestClassifier
-├── synthetic.py # Synthetic data generation script
-├── chart.py # Chart rendering and layout
-├── check.py # Birth chart drawing logic
-├── astro_model.joblib # Trained model file
-├── data.csv # Kaggle-sourced dataset
-├── requirement.txt # Python dependencies
-├── .env # (Not uploaded) API keys if needed
-└── README.md # This file
+ASTRO_CHAT.py # Main app logic
+UI.py # User interface setup (Streamlit)
+training.py # Model training using RandomForestClassifier
+synthetic.py # Synthetic data generation script
+chart.py # Chart rendering and layout
+check.py # Birth chart drawing logic
+astro_model.joblib # Trained model file
+data.csv # Kaggle-sourced dataset
+requirement.txt # Python dependencies
+.env # (Not uploaded) API keys if needed
+README.md # This file
 
 ## 📦 Tech Stack & Libraries
 - **Frontend**: Streamlit  
